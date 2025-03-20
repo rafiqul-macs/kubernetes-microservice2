@@ -1,3 +1,4 @@
+cat > app2.py << 'EOT'
 from flask import Flask, request, jsonify
 import os
 
